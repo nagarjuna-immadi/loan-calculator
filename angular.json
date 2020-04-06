@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "loan-calculator"
+    }
+  },
+  "defaultProject": "loan-calculator",
+  "cli": {
+    "analytics": false
+  }
 }
